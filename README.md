@@ -1,6 +1,6 @@
 # Clash of Teams 101 - Breach & Defend: Complete Adversarial Simulation Report 
 
-[cite_start]This project demonstrates a full adversarial simulation involving both offensive (**Red Team**) and defensive (**Blue Team**) operations within a controlled virtual lab environment. The objective was to compromise a vulnerable system, then detect, analyze, and remediate the attack using professional monitoring techniques.
+This project demonstrates a full adversarial simulation involving both offensive (**Red Team**) and defensive (**Blue Team**) operations within a controlled virtual lab environment. The objective was to compromise a vulnerable system, then detect, analyze, and remediate the attack using professional monitoring techniques.
 
 ---
 
@@ -50,7 +50,7 @@ Network traffic was captured using **Wireshark** before launching the exploit to
 
 ---
 
-## 🛡️ Phase 3: Remediation (Containment & Defense)
+## Phase 3: Remediation (Containment & Defense)
 
 ### 1. Firewall Mitigation
 To block the attacker, an **iptables** rule was applied to the target system:
