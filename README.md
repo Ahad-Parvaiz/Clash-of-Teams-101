@@ -10,7 +10,7 @@ The lab was created using **VMware** with two machines configured on the same in
 | Role | Operating System | IP Address |
 | :--- | :--- | :--- |
 | **Attacker** | Kali Linux | 192.168.40.128  |
-| **Target** | Metasploitable 2 | [cite_start]192.168.40.129  |
+| **Target** | Metasploitable 2 | 192.168.40.129  |
 
 Connectivity was verified via a ping test to ensure both machines were reachable.
 
